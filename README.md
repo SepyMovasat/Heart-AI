@@ -1,5 +1,4 @@
 # Heart AI
-![Heart-AI](https://github.com/SepyMovasat/Heart-AI/assets/81220038/4ad8023e-fcec-43ea-80f8-b97f871a039d)
 
 Heart AI is a Python-based application that predicts the likelihood of a heart attack based on user-provided health parameters. This user-friendly tool uses machine learning techniques to provide an estimate of the risk of a heart attack.
 
