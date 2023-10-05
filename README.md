@@ -44,8 +44,6 @@ Heart AI is a Python-based application that predicts the likelihood of a heart a
 ## AI Chat Bot
 
 For additional assistance and information, you can interact with our AI chat bot [here](https://www.chatbase.co/chatbot-iframe/fZmiatD_KEt158hzBMoSD).
-![Chatbot](https://github.com/SepyMovasat/Heart-AI/assets/81220038/f2dfc54d-cb61-4d02-bfeb-d43e3ce1b886)
-
 
 ## About
 This application was developed as a project by Sepehr Movasat for Artificial Intelligence (AI) course under the guidance of Mr. Tehranchi. It is intended for educational and informational purposes and should not be considered a substitute for professional medical advice.
